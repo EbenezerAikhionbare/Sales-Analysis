@@ -15,3 +15,47 @@ The goal is to demonstrate practical skills in **data cleaning, analysis, and vi
 ---
 
 ## 📂 Project Structure  
+
+---
+
+## 🔑 Key Steps  
+1. **Data Cleaning** (Excel & Python)  
+   - Removed duplicates & missing values  
+   - Standardized product categories  
+   - Formatted date fields for time-series analysis  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Identified top 10 products by sales volume  
+   - Analyzed seasonal and monthly trends  
+   - Segmented customers by purchasing behavior  
+
+3. **Data Visualization**  
+   - Built Power BI dashboard showing:  
+     - 📈 Revenue trends over time  
+     - 🛒 Best-selling products  
+     - 👥 Customer segmentation  
+
+---
+
+## 📊 Results & Insights  
+- Sales peak during holiday months (Nov–Dec).  
+- Top 5 products generate **40% of total revenue**.  
+- Loyal customers (repeat buyers) contribute significantly to revenue stability.  
+
+---
+
+## 📸 Sample Visuals  
+*(Upload screenshots of your Power BI dashboard or Excel charts here)*  
+
+---
+
+## 🚀 Next Steps  
+- Add predictive modeling with Python (e.g., forecasting sales with regression or ARIMA).  
+- Expand dashboard with customer lifetime value analysis.  
+
+---
+
+## 📫 Connect With Me  
+- **LinkedIn:** [Ebenezer Aikhionbare](https://www.linkedin.com/in/ebenezer-aikhionbare-b49ba9159)  
+- **Email:** aikhionbareebenezer@gmail.com
+- 
