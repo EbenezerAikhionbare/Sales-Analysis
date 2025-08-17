@@ -14,7 +14,6 @@ The goal is to demonstrate practical skills in **data cleaning, analysis, and vi
 
 ---
 
-## 📂 Project Structure  
 
 ---
 
@@ -43,15 +42,11 @@ The goal is to demonstrate practical skills in **data cleaning, analysis, and vi
 - Loyal customers (repeat buyers) contribute significantly to revenue stability.  
 
 ---
-
-## 📸 Sample Visuals  
-*(Upload screenshots of your Power BI dashboard or Excel charts here)*  
+  
 
 ---
 
-## 🚀 Next Steps  
-- Add predictive modeling with Python (e.g., forecasting sales with regression or ARIMA).  
-- Expand dashboard with customer lifetime value analysis.  
+
 
 ---
 
